@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:thelittlesheep/onlinemenu_vue.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:thelittlesheep/onlinemenu_nestjs.git
